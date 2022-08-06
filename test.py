@@ -1,0 +1,2 @@
+Print("today is saturday")
+
